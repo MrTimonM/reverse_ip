@@ -31,3 +31,5 @@
 
 ![App Screenshot](https://i.ibb.co/2tXs2kx/reverseip.png)
 
+## Notice
+ - As of February 2024, this tool does not work anymore. I will try to update it soon.
